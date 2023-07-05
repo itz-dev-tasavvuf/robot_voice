@@ -1,3 +1,4 @@
+#first you have to download (pip install pyttsx3) use this command in terminal
 import pyttsx3
 
 
